@@ -1,0 +1,5 @@
+## Interface: 100105
+## Title: SpawnTimer
+## Notes: Mide el tiempo de respawn de mobs configurados y muestra temporizadores en pantalla
+## Author: Norman Valdez
+SpawnTimer.lua
